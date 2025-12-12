@@ -11,15 +11,15 @@ data:
       - roboshop-trainee
       userarn: arn:aws:iam::445567085619:user/siva
       username: siva
-    - groups:
+      groups:
       - roboshop-admin
       userarn: arn:aws:iam::445567085619:user/ramesh
       username: ramesh
-    - groups:
+      groups:
       - roboshop-trainee
       userarn: arn:aws:iam::445567085619:user/john
       username: john
-    - groups:
+      groups:
       - roboshop-trainee
       userarn: arn:aws:iam::445567085619:user/raheem
       username: raheem
